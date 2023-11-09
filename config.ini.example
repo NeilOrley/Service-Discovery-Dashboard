@@ -1,0 +1,3 @@
+[DEFAULT]
+PROMETHEUS_URL = "http://mypromserver/api/v1/query"
+CONSUL_HOST = "myconsulfqdn"
